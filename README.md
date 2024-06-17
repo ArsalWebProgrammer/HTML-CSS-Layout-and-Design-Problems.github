@@ -1,4 +1,4 @@
-# HTML-CSSLayoutAndDesignProblems.github
+# HTML-CSS-Layout-And-Design-Problems.github
 
 1. **Problem**: Creating a responsive layout
    - **Description**: Users often need to create layouts that adapt to different screen sizes and devices.
